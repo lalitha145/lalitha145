@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitha145&label=Profile%20views&color=0e75b6&style=flat" alt="lalitha145" /> </p>
 
+
+- 👩‍💻 A Computer Science Student from Sree Vidyanikethan Engineering College,Tirupati.
+
 - 🌱 I’m currently learning **web development.**
 
 - 👯 I’m looking to collaborate on **web development projects**
