@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Full Stack Development.**
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 👯 I’m looking to collaborate on **Full Stack development projects**
 
-- 🤝 I’m looking for help with **web development projects**
+- 🤝 I’m looking for help with **Full Stack development projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lalitha145](https://github.com/lalitha145)
 
