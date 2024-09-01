@@ -7,7 +7,7 @@
 
 - 👩‍💻 A Computer Science Student from Sree Vidyanikethan Engineering College,Tirupati.
 
-- 🌱 I’m currently learning **web development.**
+- 🌱 I’m currently learning **Full Stack Development.**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
