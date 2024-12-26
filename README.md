@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, My name is Chintha Lalitha</h1>
 <h3 align="center">A learner and coding enthusiast👩‍💻</h3>
-<img align ="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+<img align ="right" alt="Coding" width="4000" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitha145&label=Profile%20views&color=0e75b6&style=flat" alt="lalitha145" /> </p>
 
