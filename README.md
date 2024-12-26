@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitha145" alt="lalitha145" /></a> </p>
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently working as a Backend Engineer at **Indegene**
+  
+- 🙂 I am **Gen AI** enthusiast and I am currently learning Gen AI and **building projects on Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lalitha145](https://github.com/lalitha145)
 
