@@ -10,7 +10,10 @@
   
 - 🙂 I am **Gen AI** enthusiast and I am currently learning Gen AI and **building projects on Gen AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lalitha145](https://github.com/lalitha145)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/lalitha145)
+
+- 👯 Proficient with "Java,and Python language"
+
 
 - 💬 Ask me about **Java, Python, Datastructures and Algorithms, SQL, Object Oriented Progrmming**
 
