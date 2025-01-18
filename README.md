@@ -17,7 +17,9 @@
 - 📫 How to reach me **chinthalalitha2004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XdkROB0f1jwseBRVFI2BCmJrhdEPu9B6/view?usp=sharing](https://drive.google.com/file/d/1XdkROB0f1jwseBRVFI2BCmJrhdEPu9B6/view?usp=sharing)
-- 😊 My portfolio : [https://portfolio1-rouge-eight.vercel.app/](Portfolio)
+- 😊 My portfolio : [Portfolio](https://portfolio1-rouge-eight.vercel.app/)
+- ⚡ Solved 1100+ problems on [Leetcode](https://leetcode.com/u/ChinthaLalitha3/)
+- ⚙️ Eager to learn new tech and framework to improve existing technology.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
